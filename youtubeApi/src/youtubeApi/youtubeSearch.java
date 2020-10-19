@@ -18,7 +18,7 @@ public class youtubeSearch {
 	static List<JsonNode> searchList = new ArrayList<>();
 	static List<JsonNode> videoInfoList = new ArrayList<>();
 	static List<JsonNode> channelInfoList = new ArrayList<>();
-	final static String apiKey = "AIzaSyCC_hrh0uQdpQCH6QbFp-WVSWZODtX2sjw";
+	final static String apiKey = "example";
 	static int limitCount = 0;
 
 	public static void main(String[] args) throws Exception {
